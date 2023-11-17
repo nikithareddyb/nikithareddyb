@@ -6,7 +6,9 @@ This is my portfolio of my personal and academic projects.
 - 🤔 I’m looking for help with identifying the best approach towards model deployment for existing trained models.
 - 💬 Ask me about big data and analytics queries.
 - 📫 How to reach me: nikithareddy0509@gmail.com
-- 😄 Pronouns: She/Her
+- 😄 Certifications:
+      - The AI Ladder: A Framework for Deploying AI in Your Enterprise
+      - Python for Everybody: Specialization
 
 <!--
 **nikithareddyb/nikithareddyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
