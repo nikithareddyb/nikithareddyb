@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on an Audio2Sign system that translates audio to sign language video utilizing NMT and Generative AI techniques. And I'm currently working towards becoming an AWS Certification in Machine Learning Speciality.
 - 🌱 I’m currently learning cloud-based MLOps techniques and tools.
 - 👯 I’m looking to collaborate on any open-source data science, engineering, and analytics projects.
-- 🤔 I’m looking for help with identifying the best approach towards model deployment for existing trained model.
+- 🤔 I’m looking for help with identifying the best approach towards model deployment for existing trained models.
 - 💬 Ask me about big data and analytics queries.
 - 📫 How to reach me: nikithareddy0509@gmail.com
-- 😄 Pronouns: She/Her
+- 😄 Certifications:
+      - The AI Ladder: A Framework for Deploying AI in Your Enterprise
+      - Python for Everybody: Specialization
 -->
