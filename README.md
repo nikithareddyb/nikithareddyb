@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Nikitha Bramadi
+This is my portfolio of my personal and academic projects.
 - 🔭 I’m currently working on an Audio2Sign system that translates audio to sign language video utilizing NMT and Generative AI techniques. I'm currently working towards becoming a Machine Learning Specialist with AWS Certification.
 - 🌱 I’m currently learning cloud-based MLOps techniques and tools.
 - 👯 I’m looking to collaborate on any open-source data science, engineering, and analytics projects.
