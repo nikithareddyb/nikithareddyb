@@ -7,6 +7,7 @@ This is my portfolio of my personal and academic projects.
 - 💬 Ask me about big data and analytics queries.
 - 📫 How to reach me: nikithareddy0509@gmail.com
 - 😄 Certifications:
+      - Machine Learning Specialization from DeepLearning.AI 
       - The AI Ladder: A Framework for Deploying AI in Your Enterprise
       - Python for Everybody: Specialization
 
