@@ -3,7 +3,7 @@ This is my portfolio of my personal and academic projects.
 - 🔭 I’m currently working on building domain-specific Large Language Models. 
 - 🌱 I’m currently learning cloud-based MLOps techniques and tools.
 - 👯 I’m looking to collaborate on any open-source data science, and engineering.
-- 💬 Ask me about big data engineering architecting.
+- 💬 Ask me about big data engineering.
 - 📫 How to reach me: nikithareddy0509@gmail.com
 - 😄 Certifications:
       - Machine Learning Specialization from DeepLearning.AI 
