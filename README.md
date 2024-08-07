@@ -2,13 +2,10 @@
 This is my portfolio of my personal and academic projects.
 - 🔭 I’m currently working on building domain-specific Large Language Models. 
 - 🌱 I’m currently learning cloud-based MLOps techniques and tools.
-- 👯 I’m looking to collaborate on any open-source data science, and engineering.
+- 👯 I’m looking to collaborate on any NLP problems.
 - 💬 Ask me about big data engineering.
 - 📫 How to reach me: nikithareddy0509@gmail.com
-- 😄 Certifications:
-      - Machine Learning Specialization from DeepLearning.AI 
-      - The AI Ladder: A Framework for Deploying AI in Your Enterprise
-      - Python for Everybody: Specialization
+- 😄 Certifications: Oracle Cloud Infrastructure Generative AI Professional 1Z0-1127-2
 
 <!--
 **nikithareddyb/nikithareddyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
