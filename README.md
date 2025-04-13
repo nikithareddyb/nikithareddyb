@@ -1,11 +1,10 @@
 ### Hi there 👋 I'm Nikitha Bramadi
 This is my portfolio of my personal and academic projects.
-- 🔭 I’m currently working on building domain-specific Large Language Models. 
-- 🌱 I’m currently learning cloud-based MLOps techniques and tools.
-- 👯 I’m looking to collaborate on any NLP problems.
-- 💬 Ask me about big data engineering.
+- 🔭 I’m currently working on building AI Applications. 
+- 🌱 I’m currently learning MCP and Multi-agentic architecture implementations.
+- 💬 Ask me about Agentic workflow and AI application development.
 - 📫 How to reach me: nikithareddy0509@gmail.com
-- 😄 Certifications: Oracle Cloud Infrastructure Generative AI Professional 1Z0-1127-2
+- 😄 Certifications: AZ-900: Azure AI Fundamental
 
 <!--
 **nikithareddyb/nikithareddyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
